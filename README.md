@@ -27,4 +27,4 @@ The steps to prepare each dataset were:
 
 ## Code
 - Estimation of mean and median empiracal and weighted variances (.R) 
-- Graphical visualisations of variances
+- Graphical visualisations of variances (.R) 
