@@ -8,7 +8,8 @@ Cynthia Dalleau
 This project contain the code used for the quantification of center variances obtained from frailty models in oncology studies. 
 
 # Requirements
-These codes requires R (v. > 3.4.0) to run. Required R libraries are : 
+These codes requires R (v. > 3.4.0) to run. 
+Required R libraries are : 
 * readxl
 * reshape2
 * tidyverse
@@ -18,6 +19,11 @@ These codes requires R (v. > 3.4.0) to run. Required R libraries are :
 * coxme
   
 # Structure
+Datasets used in this study are available in data-sharing platforms. 
+The steps to prepare each dataset were:
+- Data import
+- Selection of data with OS as endpoint and center as interest of variance
+- Creation of two datasets with stratification for each frailty model
 
 ## Code
 - Estimation of mean and median empiracal and weighted variances (.R) 
