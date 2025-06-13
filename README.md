@@ -26,5 +26,5 @@ The steps to prepare each dataset were:
 - Creation of two datasets with stratification for each frailty model
 
 ## Code
-- Estimation of mean and median empiracal and weighted variances (.R) 
+- Estimation of mean and median empirical and weighted variances (.R) 
 - Graphical visualisations of variances (.R) 
